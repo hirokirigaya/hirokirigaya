@@ -1,7 +1,7 @@
-## Olá! Eu sou o Daniel Junio
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando React
-- 😄 Pronomes: Ele/Dele 
+## Hi, My name is Daniel!
+- 🚀 Today im working with Front-End;
+- 📕 Study React;
+- ❤️ Pronouns: He/His; 
 
 <div align="center">
   <a href="https://github.com/hirokirigaya">
