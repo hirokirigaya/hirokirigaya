@@ -13,7 +13,7 @@
   <img align="center" alt="Dan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
      <img align="right" alt="Dan-foto" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4E03AQGeU_I2RRT9ZQ/profile-displayphoto-shrink_200_200/0/1644350092007?e=1652313600&v=beta&t=-5FTV00J5xiJ9feIirIlOQ2AB3aIJH6CYL_enYVna-M">
 </div>
   
