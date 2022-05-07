@@ -1,5 +1,5 @@
 ## Hi, My name is Daniel!
-- 🚀 Today im working with Front-End;
+- 🚀 Today im work with Front-End;
 - 📕 Study React;
 - ❤️ Pronouns: He/His; 
 
