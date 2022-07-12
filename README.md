@@ -16,7 +16,7 @@
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="right" alt="Dan-foto" height="150" style="border-radius:50px;" 
-       src="https://cdn.discordapp.com/attachments/931595721600294992/996451809562472478/kirito.gif" />
+       src="![image](https://user-images.githubusercontent.com/97910848/178544352-52e22c21-6157-49b1-a479-dba6a7db9444.png)" />
 </div>
   
   ##
