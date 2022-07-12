@@ -15,7 +15,7 @@
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-     <img align="right" alt="Dan-foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97910848/178542662-cf2c23c5-11e3-49d4-9611-c20ab5bba8bc.png">
+     <img align="right" alt="Dan-foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97910848/178542995-bb78e530-f7b5-414d-a95a-861913a11119.png" borderRadius="50px">
 </div>
   
   ##
