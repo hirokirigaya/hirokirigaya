@@ -1,6 +1,6 @@
 ## Hi, My name is Daniel!
 - 🚀 Today im work with Front-End;
-- 📕 Study React;
+- 📕 Study React/Next;
 - ❤️ Pronouns: He/His; 
 
 <div align="center">
@@ -15,7 +15,7 @@
   <img align="center" alt="Dan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-     <img align="right" alt="Dan-foto" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/97910848/178542995-bb78e530-f7b5-414d-a95a-861913a11119.png" borderRadius="50px">
+     <img align="right" alt="Dan-foto" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/33/4c/84/334c847ca52e04f8b36283128356d90c.gif" >
 </div>
   
   ##
