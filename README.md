@@ -1,6 +1,6 @@
 ## Hi, My name is Daniel!
 - 🚀 Today im work with Front-End;
-- 📕 Study React/Next;
+- 📕 Study Node Js;
 - ❤️ Pronouns: He/His; 
 
 <div align="center">
